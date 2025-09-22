@@ -3,10 +3,10 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2025 | 
-| Student Name | |
-| Student Number | |
-| Student Email | |
-| Github Account Username | |
+| Student Name |mohammad baker |
+| Student Number |Q103125057 |
+| Student Email | |0bakem57@solent.ac.uk
+| Github Account Username |baker185 |
 | Github Submission Repository URL | |
 
 ## Introduction
